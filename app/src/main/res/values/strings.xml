@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UI Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_format">Fragment %d</string>
+    <string name="display_image_text">Image %s tapped</string>
+
+    <string name="red_label">Red</string>
+    <string name="green_label">Green</string>
+    <string name="blue_label">Blue</string>
+
+    <string name="text1_label">TextView1</string>
+    <string name="text2_label">TextView2</string>
+    <string name="text3_label">TextView3</string>
+
+</resources>
